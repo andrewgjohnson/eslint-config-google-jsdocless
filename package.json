@@ -1,10 +1,22 @@
 {
-  "name": "eslint-config-google",
-  "version": "0.14.0",
-  "description": "ESLint shareable config for the Google style",
+  "name": "eslint-config-google-jsdocless",
+  "version": "0.14.1",
+  "description": "ESLint shareable config for the Google style (only without jsdoc)",
   "license": "Apache-2.0",
-  "repository": "google/eslint-config-google",
+  "repository": "andrewgjohnson/eslint-config-google-jsdocless",
   "author": "Google",
+  "contributors": [
+    {
+      "name": "Google",
+      "email": "opensource@google.com",
+      "url": "https://www.google.com/"
+    },
+    {
+      "name": "Andrew G. Johnson",
+      "email": "andrew@andrewgjohnson.com",
+      "url": "https://www.andrewgjohnson.com/"
+    }
+  ],
   "engines": {
     "node": ">=0.10.0"
   },
